@@ -70,9 +70,9 @@ O comportamento deve ser idêntico ao de listar personagens, inclusive a pagina�
 ### ANTES DE COMEÇAR A DESENVOLVER:
 
 1. Clone o repositório
-  * `git clone git@github.com:tryber/sd-01-block27-a-cli-of-ice-and-fire.git`.
+  * `git clone git@github.com:tryber/sd-01-block28-a-cli-of-ice-and-fire.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `sd-01-block27-a-cli-of-ice-and-fire`
+    * `sd-01-block28-a-cli-of-ice-and-fire`
 
 2. Instale as dependências
   * `npm install`
@@ -127,13 +127,13 @@ module.exports = {
   * Usando o exemplo anterior: `git push -u origin joaozinho-a-cli-of-ice-and-fire`
 
 7. Crie um novo `Pull Request` _(PR)_
-  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-01-block27-a-cli-of-ice-and-fire/pulls)
+  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-01-block28-a-cli-of-ice-and-fire/pulls)
   * Clique no botão verde _"New pull request"_
   * Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   * Clique no botão verde _"Create pull request"_
   * Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_
   * **Não se preocupe em preencher mais nada por enquanto!**
-  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-01-block27-a-cli-of-ice-and-fire/pulls) e confira que o seu _Pull Request_ está criado
+  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-01-block28-a-cli-of-ice-and-fire/pulls) e confira que o seu _Pull Request_ está criado
 
 ---
 
