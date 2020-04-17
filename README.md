@@ -11,7 +11,7 @@ Você vai refatorar parte de um CLI (command line interface) para que, ao invés
 
 ## Desenvolvimento
 
-O CLI mostra informações sobre o mundo de Game of Thrones, utilizando, como fonte dessas informações, uma API pública chamada [An API of Ice And Fire](anapioficeandfire.com).
+O CLI mostra informações sobre o mundo de Game of Thrones, utilizando, como fonte dessas informações, uma API pública chamada [An API of Ice And Fire](https://anapioficeandfire.com).
 
 O código deste repositório possui a funcionalidade de listar as personagens, e exibir os detalhes sobre uma personagem selecionada. Além de refatorar o código já existente, você deverá adcioinar a funcionalidade de buscar livros pelo nome, exibir os resultados, e mostrar os detalhes do livro selecionado.
 
