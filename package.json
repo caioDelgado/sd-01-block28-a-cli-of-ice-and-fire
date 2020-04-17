@@ -5,7 +5,8 @@
   "main": "cli.js",
   "scripts": {
     "test": "jest --coverage",
-    "lint": "eslint **/*.js"
+    "lint": "eslint **/*.js",
+    "start": "node index.js"
   },
   "keywords": [
     "ice",
