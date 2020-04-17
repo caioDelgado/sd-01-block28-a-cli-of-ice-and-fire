@@ -1,18 +1,6 @@
 {
-    "extends": "airbnb/base",
+    "extends": "airbnb",
     "rules": {
-        "no-console": "off",
-        "no-alert": "off",
-        "arrow-parens": [
-            2,
-            "always"
-        ],
-        "jsx-a11y/label-has-associated-control": 0,
-        "quotes": [2, "single"]
-    },
-    "env": {
-        "browser": true,
-        "node": true,
-        "jest": true
+        "no-console": "off"
     }
 }
