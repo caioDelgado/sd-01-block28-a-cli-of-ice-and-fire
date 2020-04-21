@@ -4,6 +4,7 @@
   "description": "A CLI to query the AnApiOfIceAndFire.com API",
   "main": "cli.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest --coverage",
     "lint": "eslint **/*.js"
   },
@@ -29,6 +30,7 @@
   },
   "dependencies": {
     "inquirer": "7.1.0",
+    "node-fetch": "^2.6.0",
     "superagent": "5.2.2"
   }
 }
