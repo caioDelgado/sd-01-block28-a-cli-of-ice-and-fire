@@ -18,7 +18,7 @@
     "thrones",
     "api"
   ],
-  "author": "",
+  "author": "bolivar",
   "license": "GPL-3.0",
   "devDependencies": {
     "@types/jest": "25.1.4",
@@ -28,7 +28,7 @@
     "jest": "25.1.0"
   },
   "dependencies": {
-    "inquirer": "7.1.0",
+    "inquirer": "^7.1.0",
     "superagent": "5.2.2"
   }
 }
