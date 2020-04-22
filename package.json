@@ -4,7 +4,7 @@
   "description": "A CLI to query the AnApiOfIceAndFire.com API",
   "main": "cli.js",
   "scripts": {
-    "test": "jest --coverage",
+    "test": "jest --watch",
     "lint": "eslint **/*.js",
     "start": "node index.js",
     "test-coverage": "react-scripts test --coverage --watchAll=false"
