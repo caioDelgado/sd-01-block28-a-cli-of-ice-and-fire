@@ -7,7 +7,7 @@
     "test": "jest --watch",
     "lint": "eslint **/*.js",
     "start": "node index.js",
-    "test-coverage": "react-scripts test --coverage --watchAll=false"
+    "test-coverage": "jest --coverage"
   },
   "keywords": [
     "ice",
