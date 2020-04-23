@@ -4,8 +4,10 @@
   "description": "A CLI to query the AnApiOfIceAndFire.com API",
   "main": "cli.js",
   "scripts": {
-    "test": "jest --coverage",
-    "lint": "eslint **/*.js"
+    "test": "jest --watch",
+    "lint": "eslint **/*.js",
+    "start": "node index.js",
+    "test-coverage": "jest --coverage"
   },
   "keywords": [
     "ice",
