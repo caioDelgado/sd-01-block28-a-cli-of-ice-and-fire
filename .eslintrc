@@ -1,6 +1,11 @@
 {
     "extends": "airbnb",
     "rules": {
-        "no-console": "off"
+        "no-console": "off",
+        "func-names": ["error", "as-needed"],
+        "consistent-return": "off",
+        "no-useless-escape": "off",
+        "arrow-body-style": ["error", "as-needed"],
+        "curly": ["error", "multi"]
     }
 }
