@@ -5,7 +5,7 @@
         "func-names": ["error", "as-needed"],
         "consistent-return": "off",
         "no-useless-escape": "off",
-        "arrow-body-style": ["error, "as-needed"],
+        "arrow-body-style": ["error", "as-needed"],
         "curly": ["error", "multi"]
     }
 }
