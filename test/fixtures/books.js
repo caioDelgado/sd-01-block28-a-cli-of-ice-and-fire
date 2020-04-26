@@ -108,6 +108,11 @@ const book2 = [{
   ]
 }]
 
+const linkHeaders = {
+  hasNext: '<https://www.anapioficeandfire.com/api/characters?page=2&pageSize=10>; rel="next", <https://www.anapioficeandfire.com/api/characters?page=1&pageSize=10>; rel="first", <https://www.anapioficeandfire.com/api/characters?page=214&pageSize=10>; rel="last"',
+  hasPrevious: '<https://www.anapioficeandfire.com/api/characters?page=213&pageSize=10>; rel="prev", <https://www.anapioficeandfire.com/api/characters?page=1&pageSize=10>; rel="first", <https://www.anapioficeandfire.com/api/characters?page=214&pageSize=10>; rel="last"',
+  hasBoth: '<https://www.anapioficeandfire.com/api/characters?page=3&pageSize=10>; rel="next", <https://www.anapioficeandfire.com/api/characters?page=1&pageSize=10>; rel="prev", <https://www.anapioficeandfire.com/api/characters?page=1&pageSize=10>; rel="first", <https://www.anapioficeandfire.com/api/characters?page=214&pageSize=10>; rel="last"',
+};
 
-<https://www.anapioficeandfire.com/api/books?name=A%20Game%20of%20Thrones&page=1&pageSize=10>; rel="first",
-<https://www.anapioficeandfire.com/api/books?name=A%20Game%20of%20Thrones&page=1&pageSize=10>; rel="last"
+// <https://www.anapioficeandfire.com/api/books?name=A%20Game%20of%20Thrones&page=1&pageSize=10>; rel="first",
+// <https://www.anapioficeandfire.com/api/books?name=A%20Game%20of%20Thrones&page=1&pageSize=10>; rel="last"
