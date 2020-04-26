@@ -97,7 +97,7 @@ const lastHouseBody = [
 
 const linkHeaders = {
   hasNext: '<https://www.anapioficeandfire.com/api/houses?page=2&pageSize=10>; rel="next", <https://www.anapioficeandfire.com/api/houses?page=1&pageSize=10>; rel="first", <https://www.anapioficeandfire.com/api/houses?page=444&pageSize=10>; rel="last"',
-  hasPrevious: '<https://www.anapioficeandfire.com/api/houses?page=213&pageSize=10>; rel="prev", <https://www.anapioficeandfire.com/api/houses?page=1&pageSize=10>; rel="first", <https://www.anapioficeandfire.com/api/houses?page=444&pageSize=10>; rel="last"',
+  hasPrevious: '<https://www.anapioficeandfire.com/api/houses?page=443&pageSize=10>; rel="prev", <https://www.anapioficeandfire.com/api/houses?page=1&pageSize=10>; rel="first", <https://www.anapioficeandfire.com/api/houses?page=444&pageSize=10>; rel="last"',
   hasBoth: '<https://www.anapioficeandfire.com/api/houses?page=3&pageSize=10>; rel="next", <https://www.anapioficeandfire.com/api/houses?page=1&pageSize=10>; rel="prev", <https://www.anapioficeandfire.com/api/houses?page=1&pageSize=10>; rel="first", <https://www.anapioficeandfire.com/api/houses?page=444&pageSize=10>; rel="last"',
 };
 
