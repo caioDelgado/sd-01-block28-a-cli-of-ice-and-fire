@@ -280,3 +280,6 @@ $RECYCLE.BIN/
 
 .vscode
 .coverage
+
+# Test Files
+*test.js
