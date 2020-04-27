@@ -282,4 +282,4 @@ $RECYCLE.BIN/
 .coverage
 
 # Test Files
-*test.js
+*.test.js
